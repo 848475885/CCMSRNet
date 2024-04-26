@@ -38,6 +38,8 @@ Use this line to predict results
 
         python test.py --cuda_id 0 --exp CCMSRNet.yml --ckpt ./weights/checkpoint.pth --input path_to_img_folder --output path_to_save_folder
 
+By updating the file path in the calculate_metrics.m script, you can compute the UIQM and UCIQE metrics. 
+
 # Results
 
 ![](./imgs/C60_half.png)
