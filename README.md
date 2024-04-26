@@ -43,8 +43,9 @@ Use this line to predict results
 
 ![](./imgs/C60_half.png)
 ![](./imgs/RUIE_half.png)
-
+<span style="color:red; font-weight:bold;">
 Please note that there is a minor bug in the script that we used for computing the UCIQE metric, resulting in the lower values. We do sincerely apology for this mistake. To obtain accurate UCIQE values, please use the script "calculate_metrics.m" instead. The corrected results are shown below.
+</span>
 
 ![](./imgs/table1.png)
 ![](./imgs/table2.png)
