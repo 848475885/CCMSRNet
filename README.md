@@ -46,6 +46,12 @@ Use this line to predict results
 
 Please note that there is a minor bug in the script that we used for computing the UCIQE metric, resulting in the lower values. We do sincerely apology for this mistake. To obtain accurate UCIQE values, please use the script "calculate_metrics.m" instead. The corrected results are shown below.
 
+![](./imgs/table1.png)
+![](./imgs/table2.png)
+![](./imgs/table3.png)
+![](./imgs/table4.png)
+![](./imgs/table5.png)
+
 # Citation
 If our work is useful for your research, please cite our work
 
