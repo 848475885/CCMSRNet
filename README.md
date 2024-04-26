@@ -44,9 +44,7 @@ Use this line to predict results
 ![](./imgs/C60_half.png)
 ![](./imgs/RUIE_half.png)
 
-Please note that there is a minor bug in the script we previously utilized for computing the UCIQE metric, resulting in slightly lower values. 
-To obtain accurate UCIQE metrics, you can utilize the script 'calculate_metrics.m'. Below are the corrected results.
-
+Please note that there is a minor bug in the script that we used for computing the UCIQE metric, resulting in the lower values. We do sincerely apology for this mistake. To obtain accurate UCIQE values, please use the script "calculate_metrics.m" instead. The corrected results are shown below.
 
 # Citation
 If our work is useful for your research, please cite our work
